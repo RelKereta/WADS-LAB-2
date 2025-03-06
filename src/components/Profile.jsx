@@ -7,7 +7,7 @@ const Profile = () => {
             <img src="/src/assets/profil.jpg" alt="Profile" className="w-32 h-32 rounded-full mx-auto mb-4" />
             <h2 className="text-2xl font-bold mb-2">Farrell Sevillen Arya</h2>
             <p className="text-gray-600 mb-4">
-                Computer Science student at Binus International, football, and exploring tech innovations.
+                Computer Science student at Binus International, football enjoyer, and exploring tech innovations.
             </p>
             <Link to="/">
                 <button className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-600 transition mb-4">
